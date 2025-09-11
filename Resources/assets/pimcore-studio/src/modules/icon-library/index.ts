@@ -17,9 +17,9 @@ import { serviceIds } from '@pimcore/studio-ui-bundle/app'
 // @ts-ignore
 import { type IconLibrary } from '@pimcore/studio-ui-bundle/modules/icon-library'
 // @ts-ignore
-import priceRulesIcon from '../assets/price-rules.svg?react'
+import priceRulesIcon from '../../assets/price-rules.svg?react'
 // @ts-ignore
-import productQuantityPriceRulesIcon from '..//assets/product-quanity-price-rules.svg?react'
+import productQuantityPriceRulesIcon from '../../assets/product-quanity-price-rules.svg?react'
 
 export const ProductQuantityPriceRulesBundleIconModule: AbstractModule = {
   onInit(): void {
