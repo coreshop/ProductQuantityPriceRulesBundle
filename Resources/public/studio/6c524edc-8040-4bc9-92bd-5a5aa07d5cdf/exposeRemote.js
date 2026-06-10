@@ -7,7 +7,7 @@
         window.alternativePluginExportPaths = {}
       }
 
-      window.pluginRemotes.coreshopproductquantitypricerules = "/bundles/coreshopproductquantitypricerules/studio/d40c46a1-64f3-4821-9c04-ae5e5cea8ed9/static/js/remoteEntry.js"
+      window.pluginRemotes.coreshopproductquantitypricerules = "/bundles/coreshopproductquantitypricerules/studio/6c524edc-8040-4bc9-92bd-5a5aa07d5cdf/static/js/remoteEntry.js"
 
       
     
