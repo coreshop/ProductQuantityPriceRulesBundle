@@ -21,7 +21,7 @@
     },
     "globalName": "coreshopproductquantitypricerules",
     "pluginVersion": "2.8.0",
-    "publicPath": "/bundles/coreshopproductquantitypricerules/studio/7fa4997131daa7f6541e290af79a1d61/"
+    "publicPath": "/bundles/coreshopproductquantitypricerules/studio/9496159937ccc8aa03afe29530f128a7/"
   },
   "shared": [
     {
@@ -451,7 +451,7 @@
           "sync": [
             "static/js/958.ea660127.js",
             "static/js/129.986ecb54.js",
-            "static/js/498.b1fa3e0b.js",
+            "static/js/498.8949c600.js",
             "static/js/async/__federation_expose_default_export.b9f576ed.js"
           ],
           "async": [
